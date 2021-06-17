@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MikeLebeau
+- 👀 I’m interested in Software Development, Software Craftmanship, Hacking and others  
+- 🌱 I’m currently learning how to improve myself
+- 📫 How to reach me via [Twitter](https://twitter.com/MikyLebeau) or [Mail](mailto:mike.lebeau.sio@gmail.com?subject=[GitHub]%20Hi%20Mike)
